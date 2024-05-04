@@ -7,3 +7,7 @@
 
 
 ![Hey there, Charlie Brown!](https://upload.wikimedia.org/wikipedia/en/2/22/Charlie_Brown.png)
+
+```javascript
+var helloMessage = "Hi, Mom!";
+```

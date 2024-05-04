@@ -11,3 +11,7 @@
 ```javascript
 var helloMessage = "Hi, Mom!";
 ```
+
+- [ ] Buy groceries
+- [ ] Finish GitHub Course
+- [ ] Conquer the World!
